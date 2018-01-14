@@ -11,7 +11,7 @@ A top menu allows the user to choose which domain they wish to see a simulation 
 - and one for adjusting the initial values of the study.
 
 ## Build Environment
-This JavaFX project was built using NetBeans IDE 8.0.2 with its default JDK 1.8.
+This project was built using NetBeans IDE 8.0.2 with its default JDK 1.8.
 
 ## Contributors
 George Lam
