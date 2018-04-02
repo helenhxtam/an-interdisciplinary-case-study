@@ -1,9 +1,10 @@
-# interdisciplinary-case-study
+# An Interdisciplinary Case Study
 
 ## About
 The Interdisciplinary Case Study involves applying notions learned in the course of our collegial studies into an interactive application using JavaFX.
 Notions involved are from Calculus 1, as well as Physics classes such as Waves and Optics, and Mechanics.
 
+## Controls
 A top menu allows the user to choose which domain they wish to see a simulation of. After selection, 4 different views are displayed in each their own pane:
 - one for the basic playback controls;
 - one for a graph illustrating the relationship between 2 variables involved;
@@ -16,6 +17,6 @@ This project was built using NetBeans IDE 8.0.2 with its default JDK 1.8.
 ## Contributors
 George Lam
 
-Yang Qi Yue
-
 Helen Tam
+
+Yang Qi Yue
