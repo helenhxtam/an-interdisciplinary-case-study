@@ -5,7 +5,7 @@ The Interdisciplinary Case Study involves applying notions learned in the course
 Notions involved are from Calculus 1, as well as Physics classes such as Waves and Optics, and Mechanics.
 
 ## Controls
-A top menu allows the user to choose which domain they wish to see a simulation of. After selection, 4 different views are displayed in each their own pane:
+A top menu allows the user to choose which domain they wish to see a simulation of. After selection, 4 different views are displayed in separate panes:
 - one for the basic playback controls;
 - one for a graph illustrating the relationship between 2 variables involved;
 - one for the animation of the study;
